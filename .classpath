@@ -10,5 +10,6 @@
 	<classpathentry kind="lib" path="D:/jjzhai/apitestworkspace/apitest_array/src/resource/commons-lang-2.3.jar"/>
 	<classpathentry kind="lib" path="D:/jjzhai/apitestworkspace/apitest_array/src/resource/ezmorph-1.0.3.jar"/>
 	<classpathentry kind="lib" path="D:/jjzhai/apitestworkspace/apitest_array/src/resource/json-lib-2.2.3-jdk15.jar"/>
+	<classpathentry kind="lib" path="D:/jjzhai/apitestworkspace/apitest_array/src/resource/junit-4.10.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

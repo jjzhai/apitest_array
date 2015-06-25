@@ -1,0 +1,2 @@
+4;"this is user for 4 info."
+6;"please input (0,5)."
